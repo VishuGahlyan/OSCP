@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" height="300" src="/images/kali-linux.svg">
+  <img width="300" height="300" src="/https://i0.wp.com/stuffwithaurum.com/wp-content/uploads/2015/03/pwk-blog-post.png?ssl=1">
 </p>
 
 # OSCP Cheat Sheet
